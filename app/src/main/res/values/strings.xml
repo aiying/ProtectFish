@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">守鲸猎人</string>
+    <string name="dayBefore">当前累计天数为</string>
+    <string name="dayAfter">天</string>
+    <string name="version">版本号:</string>
+    <string name="back">退出</string>
+    <string name="start">开始</string>
+    <string name="setting">设置</string>
+    <string name="help">帮助</string>
+    <string name="helpExplain">   这是王大厨最喜欢的鲸鱼啦</string>
+    <string name="helpModel1">1.系统模式：鲸鱼为主角</string>
+    <string name="helpModel2">2.自选模式：自选本地图库为主角</string>
+    <string name="helpModel3">拖动动物作为守鲸猎人，耶</string>
+    <string name="selectWord">开门放汪</string>
+    <string name="selectNoAni">您还没有选择相应的动物，请选择！</string>
+    <string name="GO">进入</string>
+    <string name="ISPLAY">开始/暂停</string>
+    <string name="BACK">返回</string>
+    <string name="SURE">确定</string>
+    <string name="numWord">目前不能超过5个大汪！</string>
+    <string name="NoFood">没有吃的啦，开始战斗，赚狗粮去！</string>
+    <string name="STARTGAME">开启新的冒险</string>
+    <string name="GAMEOVER">你输啦，鲸鱼被抢走啦！</string>
+    <string name="NEXTGAME">鲸鱼还在，希望您继续好好保护他呦！进入下一关，噢耶！</string>
+    <string name="GAMETWO">^o^ 鲸鱼要回大海啦，恭喜任务圆满完成啦^v^</string>
+
+
+</resources>
